@@ -1,0 +1,62 @@
+schema: '2.0'
+stages:
+  ingest:
+    cmd: python src/data/data_ingestion.py
+    deps:
+    - path: src/data/data_ingestion.py
+      hash: md5
+      md5: f883691a120856a4740a80ce140f0405
+      size: 812
+    outs:
+    - path: data/raw/raw_data.csv
+      hash: md5
+      md5: 43f9df344e5273698f6bebfd23451ee5
+      size: 125839787
+  preprocess:
+    cmd: python src/data/preprocessing.py
+    deps:
+    - path: data/raw/raw_data.csv
+      hash: md5
+      md5: 43f9df344e5273698f6bebfd23451ee5
+      size: 125839787
+    - path: src/data/preprocessing.py
+      hash: md5
+      md5: dde783d2f95e414ee0e8584ac5072098
+      size: 4986
+    outs:
+    - path: data/processed/features.npy
+      hash: md5
+      md5: 0914aa1f4ab0c20ce465af82bea7cbfa
+      size: 320000128
+    - path: data/processed/label_encoder.pkl
+      hash: md5
+      md5: c067ffbaf07545fb181ede622a85da53
+      size: 258
+    - path: data/processed/labels.npy
+      hash: md5
+      md5: c078827a1faaffcb55d577568f8dc38f
+      size: 12800128
+    - path: data/processed/processed_data.csv
+      hash: md5
+      md5: f374c62d940fe09fffec63e502bfdfea
+      size: 105942561
+    - path: data/processed/tokenizer.pkl
+      hash: md5
+      md5: efc538b8a5140a5874537a16aeeeb09e
+      size: 19247023
+  train_model:
+    cmd: python src/models/train.py
+    deps:
+    - path: data/processed/processed_data.csv
+      hash: md5
+      md5: f374c62d940fe09fffec63e502bfdfea
+      size: 105942561
+    - path: src/models/train.py
+      hash: md5
+      md5: d7b7fe84efa8426d282ef99d3625ffec
+      size: 4666
+    outs:
+    - path: data/processed/svm_model.pkl
+      hash: md5
+      md5: 4a112da5bae2c908b79e0c2ca10b2e85
+      size: 24605
