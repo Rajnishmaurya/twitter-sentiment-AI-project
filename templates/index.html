@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Twitter Sentiment Analysis</title>
+</head>
+<body>
+    <h1>Twitter Sentiment Predictor</h1>
+    <form action="/predict" method="post">
+        <textarea name="text" rows="4" cols="50" placeholder="Enter tweet here...">{{ text or '' }}</textarea><br><br>
+        <button type="submit">Predict Sentiment</button>
+    </form>
+
+    {% if prediction %}
+        <h2>Predicted Sentiment: {{ prediction }}</h2>
+    {% endif %}
+</body>
+</html>

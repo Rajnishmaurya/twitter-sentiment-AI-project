@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+python-multipart
+prometheus-fastapi-instrumentator
+scipy
