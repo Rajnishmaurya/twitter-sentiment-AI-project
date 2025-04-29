@@ -1,4 +1,3 @@
 data/
 mlruns/
 __pycache__/
-*.log

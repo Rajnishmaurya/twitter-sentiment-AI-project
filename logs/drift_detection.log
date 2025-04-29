@@ -1,0 +1,4 @@
+2025-04-28 09:22:34 - INFO - Drift score (cosine distance): 0.9440
+2025-04-28 09:22:34 - WARNING - Drift detected! (score > threshold)
+2025-04-28 09:22:59 - INFO - Drift score (cosine distance): 0.9440
+2025-04-28 09:22:59 - WARNING - Drift detected! (score > threshold)

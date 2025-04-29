@@ -1,0 +1,215 @@
+2025-04-11 14:34:12,608 - INFO - NumExpr defaulting to 8 threads.
+2025-04-11 14:34:21,921 - INFO - Input: dfnjdkfd | Prediction: Positive \U0001f60a
+2025-04-11 14:34:27,454 - INFO - Input: cmvkv | Prediction: Positive \U0001f60a
+2025-04-11 14:35:27,262 - INFO - Input: not the whole crew | Prediction: Negative \U0001f620
+2025-04-11 14:36:05,933 - INFO - Input: a day with a happy smile in my face | Prediction: Positive \U0001f60a
+2025-04-11 15:18:14,548 - INFO - NumExpr defaulting to 8 threads.
+2025-04-11 15:23:55,762 - INFO - Input: cnkjc
+
+ | Prediction: Positive \U0001f60a
+2025-04-11 15:24:00,430 - INFO - Input: cmvkcxmc | Prediction: Positive \U0001f60a
+2025-04-11 15:24:08,158 - INFO - Input: xkckvmdvkldscmjlsd,cxlcd, | Prediction: Positive \U0001f60a
+2025-04-11 15:40:21,757 - INFO - Input: http_request_duration_seconds	 | Prediction: Positive \U0001f60a
+2025-04-15 15:57:41,799 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:00:56,317 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:03:48,884 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:04:12,004 - INFO - Input: hii
+
+ | Prediction: Positive \U0001f60a
+2025-04-15 16:12:55,119 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:15:24,041 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:16:13,580 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:18:12,850 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:20:51,838 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:23:12,061 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 16:27:28,884 - INFO - Input: hello | Prediction: Positive \U0001f60a
+2025-04-15 16:27:37,444 - INFO - Input: i am a bad boy | Prediction: Negative \U0001f620
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Input: dfvdnk | Prediction: Positive
+INFO:root:Input: dfvndklvdjk | Prediction: Positive
+2025-04-15 17:54:56 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 17:55:29 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 17:55:38 - INFO - Input: jdkfvdj | Prediction: Positive
+2025-04-15 18:34:38 - INFO - Input: cx | Prediction: Positive
+2025-04-15 19:00:05 - INFO - Input: sdjkfhdkj | Prediction: Positive
+2025-04-15 23:26:12 - INFO - NumExpr defaulting to 8 threads.
+2025-04-15 23:27:32 - INFO - Input: kfdjgfi | Prediction: Positive
+2025-04-15 23:32:52 - INFO - Input: rajnish maurya | Prediction: Positive
+2025-04-16 11:02:06 - INFO - NumExpr defaulting to 8 threads.
+2025-04-16 11:02:57 - INFO - Input: fklrhfji | Prediction: Positive
+2025-04-28 08:26:53 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:27:02 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:27:19 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:27:36 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:27:53 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:28:01 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:28:09 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:28:27 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:28:44 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:29:01 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:29:18 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:29:36 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:29:54 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:30:12 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:30:29 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:30:46 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:31:03 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:31:20 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:31:37 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:31:54 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:32:12 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:32:30 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:32:49 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:33:07 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:33:25 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:33:44 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:34:01 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:34:19 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:34:37 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:34:54 - INFO - Drift Detection Result:  Drift detected in 22.00% of features.
+ No significant drift detected.
+
+2025-04-28 08:36:04 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:40:21 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:42:06 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:43:42 - INFO - Input: i hate you | Prediction: Negative
+2025-04-28 08:43:58 - INFO - Input: fdkghrkldlc,dsl | Prediction: Positive
+2025-04-28 08:44:12 - INFO - Input: bansgaon | Prediction: Positive
+2025-04-28 08:44:18 - INFO - Input: fdvndfkdklcmdlvfmvlfdc,vdfvbjfvlkcmdklfvdjv | Prediction: Positive
+2025-04-28 08:44:27 - INFO - Input: fkbmdflkvdfmvlmfvlfdm | Prediction: Positive
+2025-04-28 08:44:42 - INFO - Input: ffvmfkdlvmclvdf,vldfvm | Prediction: Positive
+2025-04-28 08:44:58 - INFO - Input: fdlkfvmdflv iit madras  | Prediction: Positive
+2025-04-28 08:45:06 - INFO - Input: NIRF rank 1 | Prediction: Positive
+2025-04-28 08:45:13 - INFO - Input: Tweet | Prediction: Positive
+2025-04-28 08:45:27 - INFO - Input: tweet here | Prediction: Positive
+2025-04-28 08:46:24 - INFO - Input:  | Prediction: Positive
+2025-04-28 08:46:24 - INFO - Input: ffvndfjkhrfemfe | Prediction: Positive
+2025-04-28 08:46:24 - INFO - Input: ffvndfjkhrfemfe | Prediction: Positive
+2025-04-28 08:52:20 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:53:08 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:59:23 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 08:59:23 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<monitor_drift() done, defined at C:\Users\Rajnish\Desktop\Rajnish\twitter-sentiment-AI-project\src\deployment\api.py:230> exception=NameError("name 'sys' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\Rajnish\Desktop\Rajnish\twitter-sentiment-AI-project\src\deployment\api.py", line 233, in monitor_drift
+    python_executable = sys.executable
+NameError: name 'sys' is not defined
+2025-04-28 08:59:54 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:00:04 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:01:59 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:02:13 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:02:25 - INFO - Input: fvfmdkl | Prediction: Positive
+2025-04-28 09:03:16 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:15:07 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:21:53 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:22:20 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:22:55 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:31:14 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:31:46 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:34:44 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:34:59 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:35:24 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:43:52 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:44:24 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 09:46:36 - INFO - Input: ;lfgkfdlk | Prediction: Positive
+2025-04-28 09:46:36 - INFO - Input: ;lfgkfdlk | Prediction: Positive
+2025-04-28 09:47:22 - INFO - Input: i love india | Prediction: Positive
+2025-04-28 09:47:22 - INFO - Input: i love india | Prediction: Positive
+2025-04-28 09:47:33 - INFO - Input: i hate pakistan | Prediction: Negative
+2025-04-28 09:56:10 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 10:01:35 - INFO - Input: mvndvklds | Prediction: Positive
+2025-04-28 05:03:59 - INFO - Input: lkfkdjfvdlk | Prediction: Positive
+2025-04-28 05:04:06 - INFO - Input: flbmflvbdf | Prediction: Positive
+2025-04-28 05:04:24 - INFO - Input: fbdjvkfdlvmdfnvkldvm | Prediction: Positive
+2025-04-28 10:32:35 - INFO - Input: dslkfjd | Prediction: Positive
+2025-04-28 10:33:11 - INFO - Input: dslkfjd | Prediction: Positive
+2025-04-28 12:23:27 - INFO - Input: I hate pakistan | Prediction: Negative
+2025-04-28 12:36:41 - INFO - Input: dfgfddf | Prediction: Positive
+2025-04-28 18:59:47 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 19:00:16 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 19:05:58 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 19:06:44 - INFO - Input: dfjghdfk | Prediction: Positive
+2025-04-28 19:11:17 - INFO - Input: dfkjfk | Prediction: Positive
+2025-04-28 19:26:32 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 21:56:19 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 21:56:55 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:33:04 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:33:13 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:34:13 - INFO - Input: ffkkvnmdfk | Prediction: Positive
+2025-04-28 22:36:48 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:36:56 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:40:05 - INFO - Input: dfndfkj | Prediction: Positive \U0001f603 
+2025-04-28 22:40:51 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:41:03 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:43:28 - INFO - Input: hii | Prediction: Positive \U0001f603 
+2025-04-28 22:43:59 - INFO - Input: cknvkdf | Prediction: Positive \U0001f603 
+2025-04-28 22:46:24 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:50:10 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 22:51:43 - INFO - Input: hii | Prediction: Positive \U0001f603
+2025-04-28 22:52:49 - INFO - Input: i want to shoot pakistan | Prediction: Negative \U0001f61e
+2025-04-28 22:53:53 - INFO - Input: ghgn | Prediction: Positive \U0001f603
+2025-04-28 22:59:48 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 23:17:10 - INFO - NumExpr defaulting to 8 threads.
+2025-04-28 18:00:58 - INFO - Input: dskfjfkd | Prediction: Positive 😃
+2025-04-29 03:21:29 - INFO - Input: I love India | Prediction: Positive 😃
+2025-04-29 03:51:59 - INFO - Input: i am very depressed | Prediction: Negative 😞
+2025-04-29 03:52:16 - INFO - Input: I got very good marks | Prediction: Positive 😃
+2025-04-29 04:01:52 - INFO - Input: fergr | Prediction: Positive 😃
+2025-04-29 04:40:22 - INFO - Input: hfdg | Prediction: Positive 😃
+2025-04-29 04:41:33 - INFO - Input: i hate pakistan | Prediction: Negative 😞
+2025-04-29 09:58:16 - INFO - Input: I love India | Prediction: Positive 😃
