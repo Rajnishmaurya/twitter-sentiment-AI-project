@@ -6,7 +6,7 @@ import asyncio
 import subprocess
 from fastapi import FastAPI, Form, Request
 from fastapi.responses import HTMLResponse
-from prometheus_fastapi_instrumentator import Instrumentator  # <-- add this
+from prometheus_fastapi_instrumentator import Instrumentator 
 
 # Setup logging
 logs_dir = os.path.join(os.path.dirname(__file__), "..", "..", "logs")
@@ -318,9 +318,9 @@ async def on_startup():
 # # ─────────────────────────────────────────────────────────────────────────────
 # # Drift Detection Function
 # async def monitor_drift():
-#     print("✅ Drift monitor task started", flush=True)
+#     print(" Drift monitor task started", flush=True)
 #     while True:
-#         print("🔍 Checking for data drift...", flush=True)
+#         print(" Checking for data drift...", flush=True)
 #         # Run the drift script
 #         result = subprocess.run(
 #             [sys.executable, os.path.join(project_root, "src", "drift", "drift_detection.py")],
@@ -331,7 +331,7 @@ async def on_startup():
 #         if result.stdout:
 #             print(result.stdout, flush=True)
 #         if result.stderr:
-#             print("🛑 Drift script error:\n", result.stderr, flush=True)
+#             print(" Drift script error:\n", result.stderr, flush=True)
 #         await asyncio.sleep(20)  # Check every 20 seconds
 
 # # ─────────────────────────────────────────────────────────────────────────────
